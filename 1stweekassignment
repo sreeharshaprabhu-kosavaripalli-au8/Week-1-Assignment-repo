@@ -1,0 +1,20 @@
+   <!DOCTYPE html>
+
+   <html>
+
+       <head>
+       
+          <title> First static webpage </title>
+
+       </head>
+       
+         <body> 
+
+            <h1> My first Assignment </h1>
+            <h2> Hello my name is Sree Harsha </h2>
+
+              <p> It's been over a week being with AttainU and everything is going pretty well. </p>
+
+         </body>
+
+    </html>
